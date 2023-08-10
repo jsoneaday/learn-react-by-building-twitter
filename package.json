@@ -1,0 +1,14 @@
+{
+  "name": "learn-react-by-building-twitter",
+  "workspaces": [
+    "packages/webclient"
+  ],
+  "version": "0.0.1",
+  "description": "Learn React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Choi",
+  "license": "MIT"
+}
